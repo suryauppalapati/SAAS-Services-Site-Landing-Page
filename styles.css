@@ -15,6 +15,10 @@ nav{
     background-color: #7030cc;
 }
 
+.nav_logo img{
+    height: 2rem;
+}
+
 ul.nav_list{
     display: flex;
     align-items: center;
